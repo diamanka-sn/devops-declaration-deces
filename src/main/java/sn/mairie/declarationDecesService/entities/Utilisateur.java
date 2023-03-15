@@ -1,7 +1,6 @@
 package sn.mairie.declarationDecesService.entities;
 
 import java.util.Collection;
-import java.util.Date;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

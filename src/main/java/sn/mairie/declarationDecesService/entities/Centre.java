@@ -2,7 +2,6 @@ package sn.mairie.declarationDecesService.entities;
 
 import java.util.Collection;
 
-import org.hibernate.sql.ast.tree.expression.Collation;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

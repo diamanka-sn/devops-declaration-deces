@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import jakarta.transaction.Transactional;
-import lombok.Data;
 import sn.mairie.declarationDecesService.entities.Declaration;
 import sn.mairie.declarationDecesService.repositories.DeclarationRepository;
 
@@ -70,5 +69,6 @@ public class DeclarationService implements IDeclarationService{
 		
 		return "Modification echouée";
 	}
+
 
 }

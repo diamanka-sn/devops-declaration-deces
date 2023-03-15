@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import sn.mairie.declarationDecesService.entities.Declaration;
-import sn.mairie.declarationDecesService.services.DeclarationService;
 import sn.mairie.declarationDecesService.services.IDeclarationService;
 
 @RestController
